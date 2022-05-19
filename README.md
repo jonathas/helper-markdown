@@ -1,5 +1,7 @@
 # helper-markdown [![NPM version](https://img.shields.io/npm/v/helper-markdown.svg?style=flat)](https://www.npmjs.com/package/helper-markdown) [![NPM monthly downloads](https://img.shields.io/npm/dm/helper-markdown.svg?style=flat)](https://npmjs.org/package/helper-markdown) [![NPM total downloads](https://img.shields.io/npm/dt/helper-markdown.svg?style=flat)](https://npmjs.org/package/helper-markdown) [![Linux Build Status](https://img.shields.io/travis/helpers/helper-markdown.svg?style=flat&label=Travis)](https://travis-ci.org/helpers/helper-markdown)
 
+This is a fork of https://github.com/helpers/helper-markdown with some bugfixes.
+
 > Markdown template helper. Uses remarkable to render markdown in templates. Should work with Handlebars, Lo-Dash or any template engine that supports helper functions.
 
 - [Install](#install)

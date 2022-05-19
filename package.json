@@ -1,5 +1,5 @@
 {
-  "name": "helper-markdown",
+  "name": "helper-for-markdown",
   "description": "Markdown template helper. Uses remarkable to render markdown in templates. Should work with Handlebars, Lo-Dash or any template engine that supports helper functions.",
   "version": "1.0.1",
   "homepage": "https://github.com/jonathas/helper-markdown",
@@ -10,7 +10,7 @@
     "Pedro De almeida (www.almeida.ch)",
     "Jonathas Ribeiro (https://github.com/jonathas)"
   ],
-  "repository": "helpers/helper-markdown",
+  "repository": "jonathas/helper-markdown",
   "bugs": {
     "url": "https://github.com/jonathas/helper-markdown/issues"
   },
